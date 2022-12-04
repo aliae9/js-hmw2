@@ -1,0 +1,27 @@
+.bg-red:hover{
+    background-color: rgba(227, 102, 102, 0.432);
+    
+}
+
+.bg-green:hover{
+    background-color: rgba(72, 127, 96, 0.436);
+}
+
+
+.add-list-btn{
+ 
+    margin-top: 3.2rem;
+    height: 50px;
+    width: 200px;
+    font-size: larger;
+   
+}
+
+
+
+.close-button{
+
+    float: right;
+
+}
+
